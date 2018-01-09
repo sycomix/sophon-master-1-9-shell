@@ -1,0 +1,9 @@
+{
+  "id": "dapp-status",
+  "name": "Node Status",
+  "description": "Check the status of your Sophon node",
+  "author": "Sophon Team <admin@sophon.io>",
+  "version": " 2.0.1",
+  "iconUrl": "icon.png",
+  "localUrl": "http://localhost:3001"
+}
